@@ -64,4 +64,4 @@ relayState: Stores the current state of the relay (ON or OFF).
 
 The code prints messages to the Serial Monitor (baud rate: 9600) to provide real-time updates about the relay's state and the reason for the state change (e.g., timer or button press).
 
-![alt text](https://github.com/Spuda/Arduino-light-switch/blob/[branch]/Spectacular Kup-Wolt.png?raw=true)
+![Spectacular Kup-Wolt.png](https://github.com/Spuda/Arduino-light-switch/blob/main/Spectacular%20Kup-Wolt.png?raw=true)
